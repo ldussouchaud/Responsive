@@ -22,16 +22,9 @@ header {
 
 #section_one {
     background-color: #11ABBF;
-    height: 70vh;
-    
-  
+    height: 70vh;      
     justify-content: center;
 }
-
-
-
-    
-
 
 h2 {
     display: flex;
@@ -57,3 +50,124 @@ h3 {
     background-color: #11ABBF;
 }
 
+#section_two {
+    display: flex;
+    align-items: stretch;
+}
+
+.div_two {
+    display: flex;
+    color: white;
+    background-color: #bc3184;
+    padding-left: 18em;
+    padding-top: 5em;
+    padding-bottom: 10em;  
+
+}
+
+img.arrow_two {
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+
+}
+
+.div_one {
+    display: flex;
+    background-color: #27212D;
+    color: grey;
+    padding-right: 50em;
+    padding-bottom: 10em;
+    justify-content: center; 
+    align-items: center;
+
+}
+
+p {
+    font-size: 40px;
+}
+
+ #section_three {
+     display: flex;  
+ }
+
+ .div_three {
+    background-color: #5A0FA0;
+    height:  347px;
+    width: 450px;
+    height: 350px;
+    justify-content: center; 
+    align-items: center;
+ }
+ 
+ .bridge {
+     width: 450px;
+     height: 350px;
+     
+ }
+
+ .women {
+    width: 450px;
+    height: 350px;
+}
+
+#section_four {
+    display: flex;
+    flex-direction: column;
+    background-color: #c0c0c0;
+}
+
+.title {
+    display: flex;
+    justify-content: center;
+    color: #11ABBF;
+    padding-top: 5em;
+    padding-right: 24em;
+}
+
+div.container.row {
+    display: flex;
+    flex-direction: row;
+    width: em;
+    justify-content: center;
+
+}
+
+.paragraphe1 {
+    width: 15em;
+    padding-bottom: 2em;
+    padding-left: 5em;
+    padding-top: 2em;
+}
+
+.paragraphe2 {
+    width: 15em;
+    padding-bottom: 2em;
+    padding-left: 5em;
+}
+
+.paragraphe3 {
+    width: 15em;
+    padding-bottom: 2em;
+    padding-left: 5em;
+    padding-top: 2em;
+}
+
+.paragraphe4 {
+    width: 15em;
+    padding-bottom: 2em;
+    padding-left: 5em;
+}
+
+.arrow_three {
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+    text-align: center;
+}
+
+
+
+
+
+ 
